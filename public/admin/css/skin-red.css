@@ -1,0 +1,43 @@
+.skin-red .wrapper {
+	background: #ecf0f5;
+}
+.skin-red .main-header .logo {
+    background-color: #d73925;
+    color: #fff;
+    border-bottom: 0 solid transparent;
+}
+.skin-red .main-header .navbar {
+    background-color: #dd4b39;
+}
+.skin-red .main-header .navbar .sidebar-toggle {
+    color: #fff;
+}
+.skin-red .main-header .navbar .nav > li > a {
+    color: #fff;
+}
+.skin-red .main-header .navbar .nav > li > a:hover,
+.skin-red .main-header .navbar .nav > li > a:active,
+.skin-red.main-header .navbar .nav > li > a:focus,
+.skin-red .main-header .navbar .nav .open > a,
+.skin-red .main-header .navbar .nav .open > a:hover,
+.skin-red .main-header .navbar .nav .open > a:focus,
+.skin-red .main-header .navbar .nav > .active > a {
+    background: rgba(0, 0, 0, 0.1);
+    color: #f6f6f6;
+}
+.skin-red .main-header li.user-header {
+    background-color: #dd4b39;
+}
+
+.skin-red .content-wrapper {
+	min-height: 660px;
+	z-index: 800;
+	padding-left: 17em;
+    padding-top: 3em;
+}
+.skin-red .content-header {
+    background: transparent;
+}
+.box.box-danger {
+    border-top-color: #dd4b39;
+}
